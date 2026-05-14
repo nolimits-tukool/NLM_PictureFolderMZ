@@ -1,0 +1,2 @@
+# NLM_PictureFolderMZ
+pictures以外のフォルダを指定してピクチャ表示
